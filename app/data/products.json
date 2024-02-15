@@ -1,0 +1,403 @@
+[
+    {
+      "id": 1,
+      "title": "JavaScript Crash Course",
+      "image": "/images/sample.png",
+      "description": "A comprehensive crash course on JavaScript programming language.",
+      "slug": "javascript-crash-course",
+      "category": "Programming"
+    },
+    {
+      "id": 2,
+      "title": "Python Programming Essentials",
+      "image": "/images/sample.png",
+      "description": "Learn the fundamentals of Python programming from scratch.",
+      "slug": "python-programming-essentials",
+      "category": "Programming"
+    },
+    {
+      "id": 3,
+      "title": "React.js Mastery",
+      "image": "/images/sample.png",
+      "description": "Master React.js and build powerful web applications.",
+      "slug": "react-js-mastery",
+      "category": "Programming"
+    },
+    {
+      "id": 4,
+      "title": "Java Development Bootcamp",
+      "image": "/images/sample.png",
+      "description": "A comprehensive bootcamp to become a Java developer.",
+      "slug": "java-development-bootcamp",
+      "category": "Programming"
+    },
+    {
+      "id": 5,
+      "title": "Data Structures and Algorithms in C++",
+      "image": "/images/sample.png",
+      "description": "Learn data structures and algorithms using C++.",
+      "slug": "data-structures-algorithms-cplusplus",
+      "category": "Programming"
+    },
+    {
+      "id": 6,
+      "title": "HTML & CSS Essentials",
+      "image": "/images/sample.png",
+      "description": "Learn the basics of HTML and CSS for web development.",
+      "slug": "html-css-essentials",
+      "category": "Programming"
+    },
+    {
+      "id": 7,
+      "title": "Ruby on Rails Crash Course",
+      "image": "/images/sample.png",
+      "description": "A crash course on building web applications with Ruby on Rails.",
+      "slug": "ruby-on-rails-crash-course",
+      "category": "Programming"
+    },
+    {
+      "id": 8,
+      "title": "SQL Database Management",
+      "image": "/images/sample.png",
+      "description": "Learn SQL for managing databases effectively.",
+      "slug": "sql-database-management",
+      "category": "Programming"
+    },
+    {
+      "id": 9,
+      "title": "Machine Learning Fundamentals",
+      "image": "/images/sample.png",
+      "description": "An introduction to machine learning concepts and algorithms.",
+      "slug": "machine-learning-fundamentals",
+      "category": "Programming"
+    },
+    {
+      "id": 10,
+      "title": "Node.js Backend Development",
+      "image": "/images/sample.png",
+      "description": "Build scalable backend applications with Node.js.",
+      "slug": "node-js-backend-development",
+      "category": "Programming"
+    },
+    {
+        "id": 11,
+        "title": "Angular Framework Essentials",
+        "image": "/images/sample.png",
+        "description": "Learn the essentials of Angular framework for building web applications.",
+        "slug": "angular-framework-essentials",
+        "category": "Programming"
+      },
+      {
+        "id": 12,
+        "title": "Swift Programming Basics",
+        "image": "/images/sample.png",
+        "description": "Get started with Swift programming language for iOS app development.",
+        "slug": "swift-programming-basics",
+        "category": "Programming"
+      },
+      {
+        "id": 13,
+        "title": "Advanced JavaScript Techniques",
+        "image": "/images/sample.png",
+        "description": "Master advanced concepts and techniques in JavaScript programming.",
+        "slug": "advanced-javascript-techniques",
+        "category": "Programming"
+      },
+      {
+        "id": 14,
+        "title": "Django Web Development",
+        "image": "/images/sample.png",
+        "description": "Build web applications with Django framework using Python programming language.",
+        "slug": "django-web-development",
+        "category": "Programming"
+      },
+      {
+        "id": 15,
+        "title": "Blockchain Fundamentals",
+        "image": "/images/sample.png",
+        "description": "Learn the basics of blockchain technology and cryptocurrencies.",
+        "slug": "blockchain-fundamentals",
+        "category": "Programming"
+      },
+      {
+        "id": 16,
+        "title": "Vue.js Frontend Development",
+        "image": "/images/sample.png",
+        "description": "Build interactive user interfaces with Vue.js framework.",
+        "slug": "vue-js-frontend-development",
+        "category": "Programming"
+      },
+      {
+        "id": 17,
+        "title": "ASP.NET Core Basics",
+        "image": "/images/sample.png",
+        "description": "Get started with ASP.NET Core for building web applications.",
+        "slug": "asp-net-core-basics",
+        "category": "Programming"
+      },
+      {
+        "id": 18,
+        "title": "PHP Web Development Essentials",
+        "image": "/images/sample.png",
+        "description": "Learn essential concepts of PHP programming for web development.",
+        "slug": "php-web-development-essentials",
+        "category": "Programming"
+      },
+      {
+        "id": 19,
+        "title": "Ethical Hacking Fundamentals",
+        "image": "/images/sample.png",
+        "description": "An introduction to ethical hacking and cybersecurity.",
+        "slug": "ethical-hacking-fundamentals",
+        "category": "Programming"
+      },
+      {
+        "id": 20,
+        "title": "Go Programming Language Basics",
+        "image": "/images/sample.png",
+        "description": "Learn the basics of Go programming language for building scalable applications.",
+        "slug": "go-programming-language-basics",
+        "category": "Programming"
+      },
+      {
+        "id": 21,
+        "title": "Firebase Development Essentials",
+        "image": "/images/sample.png",
+        "description": "Learn Firebase for building real-time web and mobile applications.",
+        "slug": "firebase-development-essentials",
+        "category": "Programming"
+      },
+      {
+        "id": 22,
+        "title": "Rust Programming Basics",
+        "image": "/images/sample.png",
+        "description": "Get started with Rust programming language for systems programming.",
+        "slug": "rust-programming-basics",
+        "category": "Programming"
+      },
+      {
+        "id": 23,
+        "title": "AWS Cloud Computing Fundamentals",
+        "image": "/images/sample.png",
+        "description": "An introduction to Amazon Web Services (AWS) for cloud computing.",
+        "slug": "aws-cloud-computing-fundamentals",
+        "category": "Programming"
+      },
+      {
+        "id": 24,
+        "title": "Flutter Mobile App Development",
+        "image": "/images/sample.png",
+        "description": "Build cross-platform mobile apps with Flutter framework.",
+        "slug": "flutter-mobile-app-development",
+        "category": "Programming"
+      },
+      {
+        "id": 25,
+        "title": "Linux System Administration Basics",
+        "image": "/images/sample.png",
+        "description": "Learn the basics of Linux system administration for managing servers.",
+        "slug": "linux-system-administration-basics",
+        "category": "Programming"
+      },
+      {
+        "id": 26,
+        "title": "GraphQL API Development",
+        "image": "/images/sample.png",
+        "description": "Build flexible APIs with GraphQL query language.",
+        "slug": "graphql-api-development",
+        "category": "Programming"
+      },
+      {
+        "id": 27,
+        "title": "Cybersecurity Fundamentals",
+        "image": "/images/sample.png",
+        "description": "An introduction to cybersecurity concepts and best practices.",
+        "slug": "cybersecurity-fundamentals",
+        "category": "Programming"
+      },
+      {
+        "id": 28,
+        "title": "Jenkins CI/CD Essentials",
+        "image": "/images/sample.png",
+        "description": "Learn Jenkins for continuous integration and continuous deployment.",
+        "slug": "jenkins-ci-cd-essentials",
+        "category": "Programming"
+      },
+      {
+        "id": 29,
+        "title": "Docker Containers Basics",
+        "image": "/images/sample.png",
+        "description": "Get started with Docker containers for building and deploying applications.",
+        "slug": "docker-containers-basics",
+        "category": "Programming"
+      },
+      {
+        "id": 30,
+        "title": "React Native Mobile Development",
+        "image": "/images/sample.png",
+        "description": "Build native mobile apps with React Native framework.",
+        "slug": "react-native-mobile-development",
+        "category": "Programming"
+      },
+      {
+        "id": 31,
+        "title": "Kotlin Android Development",
+        "image": "/images/sample.png",
+        "description": "Build Android apps with Kotlin programming language.",
+        "slug": "kotlin-android-development",
+        "category": "Programming"
+      },
+      {
+        "id": 32,
+        "title": "Unity Game Development Essentials",
+        "image": "/images/sample.png",
+        "description": "Get started with game development using Unity game engine.",
+        "slug": "unity-game-development-essentials",
+        "category": "Programming"
+      },
+      {
+        "id": 33,
+        "title": "Node.js & Express.js REST API Development",
+        "image": "/images/sample.png",
+        "description": "Build RESTful APIs with Node.js and Express.js.",
+        "slug": "node-js-express-js-rest-api-development",
+        "category": "Programming"
+      },
+      {
+        "id": 34,
+        "title": "Vue.js State Management with Vuex",
+        "image": "/images/sample.png",
+        "description": "Manage application state with Vuex in Vue.js applications.",
+        "slug": "vue-js-state-management-with-vuex",
+        "category": "Programming"
+      },
+      {
+        "id": 35,
+        "title": "Dart Programming Basics",
+        "image": "/images/sample.png",
+        "description": "Learn the basics of Dart programming language for Flutter development.",
+        "slug": "dart-programming-basics",
+        "category": "Programming"
+      },
+      {
+        "id": 36,
+        "title": "ASP.NET MVC Framework Essentials",
+        "image": "/images/sample.png",
+        "description": "Build web applications with ASP.NET MVC framework.",
+        "slug": "asp-net-mvc-framework-essentials",
+        "category": "Programming"
+      },
+      {
+        "id": 37,
+        "title": "Blockchain Smart Contracts Development",
+        "image": "/images/sample.png",
+        "description": "Develop smart contracts for blockchain applications.",
+        "slug": "blockchain-smart-contracts-development",
+        "category": "Programming"
+      },
+      {
+        "id": 38,
+        "title": "Shell Scripting Basics",
+        "image": "/images/sample.png",
+        "description": "Learn the basics of shell scripting for automating tasks in Unix-like systems.",
+        "slug": "shell-scripting-basics",
+        "category": "Programming"
+      },
+      {
+        "id": 39,
+        "title": "Angular Advanced Techniques",
+        "image": "/images/sample.png",
+        "description": "Master advanced techniques and concepts in Angular framework.",
+        "slug": "angular-advanced-techniques",
+        "category": "Programming"
+      },
+      {
+        "id": 40,
+        "title": "React.js Server-Side Rendering",
+        "image": "/images/sample.png",
+        "description": "Implement server-side rendering with React.js for better SEO and performance.",
+        "slug": "react-js-server-side-rendering",
+        "category": "Programming"
+      },
+      {
+        "id": 41,
+        "title": "Python Data Science Fundamentals",
+        "image": "/images/sample.png",
+        "description": "An introduction to data science with Python programming language.",
+        "slug": "python-data-science-fundamentals",
+        "category": "Programming"
+      },
+      {
+        "id": 42,
+        "title": "C# Game Development with Unity",
+        "image": "/images/sample.png",
+        "description": "Build games using C# programming language and Unity game engine.",
+        "slug": "csharp-game-development-with-unity",
+        "category": "Programming"
+      },
+      {
+        "id": 43,
+        "title": "JavaScript Design Patterns",
+        "image": "/images/sample.png",
+        "description": "Learn common design patterns and best practices in JavaScript programming.",
+        "slug": "javascript-design-patterns",
+        "category": "Programming"
+      },
+      {
+        "id": 44,
+        "title": "Raspberry Pi Projects",
+        "image": "/images/sample.png",
+        "description": "Build interesting projects with Raspberry Pi single-board computer.",
+        "slug": "raspberry-pi-projects",
+        "category": "Programming"
+      },
+      {
+        "id": 45,
+        "title": "SwiftUI App Development",
+        "image": "/images/sample.png",
+        "description": "Build user interfaces for iOS apps with SwiftUI framework.",
+        "slug": "swiftui-app-development",
+        "category": "Programming"
+      },
+      {
+        "id": 46,
+        "title": "Android App UI/UX Design",
+        "image": "/images/sample.png",
+        "description": "Design beautiful and intuitive user interfaces for Android apps.",
+        "slug": "android-app-ui-ux-design",
+        "category": "Programming"
+      },
+      {
+        "id": 47,
+        "title": "Angular Material Design Essentials",
+        "image": "/images/sample.png",
+        "description": "Implement Material Design principles in Angular applications.",
+        "slug": "angular-material-design-essentials",
+        "category": "Programming"
+      },
+      {
+        "id": 48,
+        "title": "Advanced Python Programming Techniques",
+        "image": "/images/sample.png",
+        "description": "Master advanced concepts and techniques in Python programming language.",
+        "slug": "advanced-python-programming-techniques",
+        "category": "Programming"
+      },
+      {
+        "id": 49,
+        "title": "Node.js Real-Time Applications",
+        "image": "/images/sample.png",
+        "description": "Build real-time web applications with Node.js and Socket.IO.",
+        "slug": "node-js-real-time-applications",
+        "category": "Programming"
+      },
+      {
+        "id": 50,
+        "title": "Java Spring Boot Framework Essentials",
+        "image": "/images/sample.png",
+        "description": "Get started with Spring Boot framework for building Java web applications.",
+        "slug": "java-spring-boot-framework-essentials",
+        "category": "Programming"
+      }
+]
+  
